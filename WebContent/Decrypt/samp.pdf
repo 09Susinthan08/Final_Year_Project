@@ -1,0 +1,42 @@
+Ppub System public key VSIG The secret key of verifying SEAI Strong Extraetor with Auxiliary Input m0 A 
+point of G used for user registration ?, u0, r1, r11 The random numbers PPT Probability Polynomial 
+Adversary ID Identity ~s, ~u,~t, K~ s The random vectors DDH Decisional DiffieHellman Assumption (sk, 
+pk) User’s secret keys gi, X0, U0, ~?s, d(m0), dID R1, R11, V, as, bs, h2, h3 The computing component 
+CBDH Computational Bilinear Diffie-Hellman Assumption CT = (C1, C2, C3) The ciphertext of files DO The 
+Data Owner PBFT Practical Byzantine Fault Tolerance CW The ciphertext of keywords DU The Data User 
+PoW Proof of Work h, h1 The hash value of keywords’ ciphertext CS The cloud server In Table I, we 
+summarize the resistance of the mentioned above schemes to Key-Leakage Attacks and other security. 
+2) Blockchain in IoT: IoT is experiencing exponential growth, but it still suffers from privacy and security 
+vulnerabilities. Conventional security and privacy approaches tend to be inapplicable for IoT, mainly due 
+to its decentralized topology and the resource-constraints of the majority of its devices. Therefore, the 
+blockchain technology is introduced in IoT to solve the problems [36]–[41]. In [37], they proposed a 
+blockchain-based secure and privacy-preserving PHI sharing scheme for diagnosis improvements in e-
+Health systems. And in [39], the proposed architecture is hierarchical, and consists of smart homes, an 
+overlay network and cloud storages coordinating data transactions with blockchain to provide privacy 
+and security. In [41], the authors proposed a lightweight blockchain-based architecture for IoT that 
+virtually eliminates the overheads of classic blockchain, while maintaining most of its security and 
+privacy benefts. B. Our Contributions In this paper, in view of above challenges, which only support data 
+sharing through ABE and cannot resist KeyLeakage attack, we propose a new anti-key-leakage attack 
+data searching scheme, called Blockchain-based Key Aggregation Searchable Encryption Scheme with 
+auxiliary input (BAI-KASE). What’s more, we established a data sharing system based on blockchain with 
+corresponding consensus mechanism, for cloud computing-enhanced IoT. Specifically, the contributions 
+of this paper are threefold as follows. 1) First, a BAI-KASE scheme is proposed, which enables users to 
+not only aggregate different encryption keys into one for saving scarce bandwidth, but also introduce 
+Auxiliary Input model for secret keys’ security enhancement. We give the detailed analysis to show that 
+our scheme is AI-CCA secure(Chosen Ciphertext Attack with Auxiliary Input) under DDH assumption and 
+Goldreich-Leivin Theorem. The BAI-KASE scheme is based on an AI-CPA secure(Chosen Plaintext Attack 
+with Auxiliary Input)scheme. Both schemes can resist Key-Leakage attacks with auxiliary input model. 
+Moreover, BAI-KASE can also resist Internal Keyword Guessing Attacks(IKGA). 2) Secondly, a data sharing 
+system is established, which is based on private blockchain and public blockchain with Practical 
+Byzantine Fault Tolerance Algorithm (PBFT) and Proof of Work (PoW) consensus mechanism. It can 
+effectively solve the problem of access control and data sharing to improve efficiency. Our scheme is 
+capable of realizing not only intra-blockchain sharing but also inter-blockchain sharing. In the private 
+blockchain, as long as you satisfy the access control attribute of private blockchain and register, you can 
+freely access the shared data stored in the cloud server in the private blockchain. What’s more, if you 
+want to access shared data in other private blockchains, you can get the data you are interested in 
+through some legal data transactions. Besides, users can verify data integrity and non-tampering feature 
+through blockchain. Our blockchain system is secure through detailed security analysis. 3) Thirdly, the 
+efficiency and performance analysis of the proposed scheme is justified by concrete implementations. 
+We simulate our scheme on mobile phone and computer. In the next place, we compare the 
+performance on BAI-KASE with others in terms of computation costs to show the advantage of our 
+scheme. Moreover, we illustrate the storage overhead and communication overhead on blockchain, and 

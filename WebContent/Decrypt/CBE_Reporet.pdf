@@ -1,0 +1,61 @@
+https://plagiarism-detector.com 5/6
+littler subsets while simultaneously a related choice tree is steadily evolved. SUPPORT VECTOR
+MACHINES (SVM): A classifier that sorts the informational collection by setting an ideal hyper
+plane between information. I picked this classifier as it is fantastically flexible in the quantity of
+various kernelling capacities that can be applied and this model can yield a high consistency
+rate. RANDOM FOREST: Arbitrary timberlands or irregular choice woodlands are an outfit
+learning strategy for grouping, relapse and different assignments, that work by building a large
+number of choice trees at preparing time and yielding the class that is the method of the
+classes (order) or mean expectation (relapse) of the individual trees. Arbitrary choice
+timberlands right for choice trees' propensity for over fitting to their preparation set.K -
+NEAREST NEIGHBOR (KNN):K -Nearest Neighbor is a managed AI calculation which stores all
+examples relate to preparing information focuses in n-dimensional space. At the point when
+obscure discrete information is gotten, it investigates the nearest k number of occurrences
+spared (closest neighbors) and returns the most widely recognized class as the forecast and
+for genuine esteemed information it restores the mean of k closest neighbors.NAIVE BAYES
+ALGORITHM: The Naive Bayes calculation is a natural technique that utilizes the probabilities of
+each ascribes having a place with each class to make a forecast. It is the administered learning
+approach you would think of on the off chance that you needed to display a prescient
+demonstrating issue probabilistically.VII I RESULT AND DISCUSSIONThe aim of the entire
+project was to test which algorithm predicts the best crop and cost with higher accuracy. This
+section includes all the results obtained from the study and introduces the best performer
+according to various performance metrics.Performance measurements of crop yield production
+cost: Fig Comparison of machine learning algorithms for crop yield. Comparison of machine
+learning accuracy values: Comparison of machine learning parameter results: Performance
+measurements of crop yield: Fig Comparison of machine learning algorithms for crop yield.
+Comparison of machine learning accuracy values: Comparison of machine learning parameter
+results: IX . FUTURE ENHANCEMENTThere are several directions for our feature research work
+in this study. First, we want to evaluate our proposed system using additional appropriate data
+sets which preferably have a large number of data records. Can automate the detecting the
+yield crops from eligibility process in real time. To automate this process by show the
+prediction result in web application or desktop application and to optimize the work to
+implement in Artificial Intelligence environment. X. CONCLUSIONThe proposed system was to
+compare the algorithms with different performance metrics using machine learning. All data
+were pre-processed and used for the prediction. Random Forest and Decision Tree are the
+likely model to work best in the dataset used in this study. Different sources such as 'Sensors',
+used to capture the essential features based on which Crop yield can be predicted. With further
+research machine learning can also be used to predict the Crop yield better than the human
+experts can do. The analytical process started from data cleaning and processing, missing
+value, exploratory analysis and finally model building and evaluation. Finally, we predict the
+crop using machine learning algorithm with different results. The best accuracy on public test
+set is higher accuracy score by Machine learning method from calculating cross validation
+checking, Precision, recall and F1score in future. This brings some of the following insights
+about crop prediction. As maximum types of crops will be covered under this system, farmer
+may get to know about the crop which may never have been cultivated and lists out all
+possible crops, it helps the farmer in decision making of which crop to cultivate. Also, this
+system takes into consideration the past production of data which will help the farmer get
+insight into the demand and the cost of various crops in market. X I.REFERENCES[1]. Becker-
+Reshef, E. Vermote, M. Lindeman "A generalized regression-based model for forecasting winter
+wheat yields in Kansas and Ukraine using MODIS data", Sciencedirect/ACCESS.2010.[2]. Kim,
+NariLee, Yang-Won, "Machine Learning Approaches to Corn Yield Estimation Using Satellite
+Images and Climate Data: A Case of Iowa State", Vol. Journal of the Korean Society of
+Surveying 34, No.4,383-390,2016.[3]. Ainong Li, Shunlin Liang, Angsheng Wang, and Jun Qin,
+"Estimating Crop Yield from Multi-temporal Satellite Data Using Multivariate Regression and
+Neural Network Techniques", Photogrammetric Engineering & Remote Sensing Vol. 73, No. 10,
+October 2007.[4]. P. S. Vijayabaskar, Sreemathi.R, Keertanaa, "Crop prediction using predictive
+analytics", International Conference on Computational and Mathematical Sciences.[5]. Niketa
+Gandhi , Leisa J. Armstrong ,Owaiz Petkar, Amiya Kumar Tripathy "Rice Crop Yield Prediction in
+India using Support Vector Machines" , International joint Conference , 2016.[6].
+D.Sabareeswaran, R.Gunasundari," Plant Yield Prediction Model Using Firefly based Feature
+Selection with Modified Fuzzy Cognitive Maps", International journal of Pure and Applied
+Mathematic Volume 118 No. 5 2018, 339-352.[7]. Talha Siddique, Dipro Barua, Zannatul
